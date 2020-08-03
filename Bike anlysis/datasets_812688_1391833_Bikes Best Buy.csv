@@ -1,0 +1,61 @@
+Bike Name,Milage (kM/L),Tank size (cc) ,Price(INR),Fuel,Company
+Royal Enfield,50,500,350000,D,Bullet
+Rajdoot,60,500,50000,D,Rajdoot
+Splender Plus,65,100,65000,P,Hero
+Splender Pro NXG,61,120,66003,P,Hero
+Super Splender,60,125,66200,P,Hero
+Discover,70,100,56000,P,Bajaj
+Discover 135,70,135,57080,P,Bajaj
+Pulsar 150,70,150,69000,P,Bajaj
+Pulsar 180,68,180,70500,P,Bajaj
+Pulsar 200,65,200,78000,P,Bajaj
+Pulsar 220 F,62,220,78900,P,Bajaj
+Pulsar 450,50,450,89010,P,Bajaj
+Shine ,90,160,56000,P,Honda
+Unicorn,80,180,70000,P,Honda
+CB Hornet 160R,50,160,68000,P,Honda
+Livo BS6,66,120,65000,P,Honda
+XBlade,59,185,76000,P,Honda
+CD 110 Dream,78,109,67500,P,Honda
+Gold Wing,26,1833,560000,P,Honda
+CBR 650R,56,650,235000,P,Honda
+Passion Plus,69,113,81000,P,Hero
+HF Deluxe,95,97,72000,P,Hero
+Glamour,86,125,84000,P,Hero
+X Pulse 200,40,199,96000,P,Hero
+Apache RTR 160,60,160,85470,P,TVS
+Apache RR310,37,312,85600,P,TVS
+Apache RTR 200,45,200,89100,P,TVS
+XL100,80,100,45000,P,TVS
+Sport,76,109,67300,P,TVS
+Raedon,78,109,70000,P,TVS
+Star City Plus,73,110,71600,P,TVS
+Victor,68,120,71900,P,TVS
+Invincible (V),62,190,79850,P,Bajaj
+R15,56,195,156000,P,Yamaha
+FZ-V3,60,150,110000,P,Yamaha
+FZ 25,50,250,135000,P,Yamaha
+YZF R1M,31,1000,567000,P,Yamaha
+Fazer,59,350,365000,P,Yamaha
+Duke ,60,330,95000,P,KTM
+Gixxer,69,155,84000,P,Suzuki
+Intruder,56,165,87500,P,Suzuki
+Hayabusa,30,700,590000,P,Suzuki
+V-Storm,60,156,98766,P,Suzuki
+Optima,60,0,68700,E,Hero
+AE-47 E,80,0,78500,E,Hero
+Ninja 1000,50,1043,315000,P,Kawasaki
+V800 Street,50,773,360900,P,Kawasaki
+Ninja 400,61,402,311100,P,Kawasaki
+Stunner CBF,53,110,156000,P,Honda
+Street 500,51,749,972220,D,Harley Davidson
+Forty Eight,48,1202,116000,D,Harley Davidson
+1200 Custom,47,1220,590000,P,Harley Davidson
+Low Rider,40,1868,670000,D,Harley Davidson
+CVO Limited,20,1769,320000,P,Harley Davidson
+Crux,80,100,50000,P,Yamaha
+Avenger,80,120,60000,P,Bajaj
+Avenger FLG,75,156,63000,P,Bajaj
+Karizma,67,260,100000,P,Honda
+Karizma ZMR,65,296,115000,P,Honda
+Enticer,60,120,64000,P,Bajaj
