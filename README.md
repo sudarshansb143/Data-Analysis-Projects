@@ -34,6 +34,9 @@ jupyter notebook
 
 * Github: [@sudarshansb143](https://github.com/sudarshansb143)
 
+* LinkedIn : [@ssudarshan-78jack](linkedin.com/in/sudarshan-78jack/)
+
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
