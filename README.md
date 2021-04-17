@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Welcome to 📉 Data Analysis Projects 📉 With Python 🚀</h1>
+<h1 align="center"> 🚀  Data Analysis Projects 📉 With Python 🚀 </h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -18,12 +18,6 @@
 
 ```sh
 pip install <pkg_name> 
-```
-
-## Usage
-
-```sh
-jupyter notebook 
 ```
 
 
